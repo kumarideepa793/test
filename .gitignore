@@ -1,0 +1,8 @@
+#.gitignore
+
+#java class files
+*.class
+#executable files
+.exe
+#ended with directory 
+temp/
